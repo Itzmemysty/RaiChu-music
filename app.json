@@ -1,15 +1,15 @@
 {
     "name": "RaiChu Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "logo": "https://telegra.ph/file/3bd421091b83c2f334d74.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/RaiChuUpdate",
-    "repository": "https://github.com/RaiChuXD/RaiChuMusic",
-    "success_url": "https://t.me/RaiChuXD",
+    "website": "https://t.me/itzmedarkswordsupportchannel",
+    "repository": "https://github.com/itzmebroklyn/RaiChuMusic",
+    "success_url": "https://t.me/itzmedarkswordsupportchannel",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -46,22 +46,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "RaiChuOfficial"
+            "value": ""https://t.me/itzmeEvilMystysupportgroup"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "RaiChuUpdate"
+            "value": "https://t.me/itzmedarkswordsupportchannel"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
-            "value": "RaiChuXD"
+            "value": "💘✨★✰𝙒𝙚𝙞 𝙒𝙪𝙭𝙞𝙖𝙣✰★✨💘"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": false,
-            "value": "RaiChuXMusic"
+            "value": "❥︎☯︎༱៚Dᴀʀᴋ⚕Sᴡᴏʀᴅ༗༱☯︎❥︎"
         }
     },
     "addons": [],

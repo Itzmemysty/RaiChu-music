@@ -1,4 +1,4 @@
-from RaiChu.config import API_HASH, API_ID, BOT_TOKEN, SESSION_NAME
+from Alien.config import API_HASH, API_ID, BOT_TOKEN, SESSION_NAME
 from pyrogram import Client
 from pytgcalls import PyTgCalls
 
@@ -7,7 +7,7 @@ bot = Client(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins={"root": "RaiChu.Player"},
+    plugins={"root": "Alien music player"},
 )
 
 user = Client(

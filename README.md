@@ -46,10 +46,10 @@
 - PyTgCalls
 
 #### Special Credits
-- [Subhanahu](https://t.me/Shubhanshutya)
-- [Sammy](https://t.me/OpFriDay)
-- [Abhi](https://t.me/VEXERA_MUSICS)
-- [Rock](https://t.me/ROCKSTAR_XDD)
+- [💘💞✰★𝙆𝙖𝙣𝙣𝙞 𝙍𝙖𝙖𝙨𝙞 𝙆𝙖𝙖𝙧𝙖𝙣 𝘿𝙖★✰💞💘](https://t.me/itzmekanniraasi)
+- [💘✨★✰𝙒𝙚𝙞 𝙒𝙪𝙭𝙞𝙖𝙣✰★✨💘](https://t.me/itzmeWeiWuxian)
+- [亗 ❥︎×͜×『Mʏsᴛᴇʀɪᴏᴜs』❥︎࿐亗](https://t.me/itzmemysty)
+
 
 ### Support & Updates 
-<a href="https://t.me/PmPermit"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/BotDuniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+-  <a href="https://t.meitzmealiensupportgroup><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/itzmealiensupportchannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>

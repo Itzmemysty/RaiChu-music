@@ -1,7 +1,7 @@
-<h2 align="centre">Bot duniya Music Player</h2>
+<h2 align="centre">Alien Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/55202a2a5dd038bdbebea.jpg">
+  <img src="https://telegra.ph/file/af405bc022918296ca39b.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -39,7 +39,7 @@
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/AMANTYA1/RaiChu-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Itzmebroklyn/RaiChu-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 # Credits
 - callmusic 
